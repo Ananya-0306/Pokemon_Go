@@ -1,4 +1,4 @@
-![Pokémon](Pictures/logo.png "Pokémon")
+![Pokémon](https://github.com/Ananya-0306/Pokemon_Go/blob/main/logo.png "Pokémon")
 <h1 align="center">:atom: PythonRed Version :electron:</h1>
 
 <p align="center">
